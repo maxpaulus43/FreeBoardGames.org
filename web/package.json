@@ -126,7 +126,8 @@
     "webpackbar": "^4.0.0",
     "winston": "^3.7.2",
     "worker-loader": "^2.0.0",
-    "yarn": "^1.22.10"
+    "yarn": "^1.22.10",
+    "sortablejs": "^1.15.0"
   },
   "devDependencies": {
     "@apollo/react-testing": "^4.0.0",
